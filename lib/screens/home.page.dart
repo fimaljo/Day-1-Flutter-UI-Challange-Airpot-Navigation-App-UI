@@ -170,7 +170,7 @@ class HomePage extends StatelessWidget {
             child: AnimatedBox(
               hieght: 80,
               width: 150,
-              icon: Icons.bed,
+              icon: Icons.chat,
               color: Colors.white,
             ),
           ),
